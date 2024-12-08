@@ -1,5 +1,3 @@
-// let gam = document.querySelector(".game");
-  
 let userScore = 0;
 let botScore = 0;
 // select all choice div
